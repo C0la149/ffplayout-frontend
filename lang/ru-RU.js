@@ -7,7 +7,7 @@ export default {
         wrongLogin: 'Неверные данные для входа!',
     },
     button: {
-        login: 'Логин',
+        login: 'Войти',
         home: 'Домашняя страница',
         player: 'Плеер',
         media: 'Файлы',
